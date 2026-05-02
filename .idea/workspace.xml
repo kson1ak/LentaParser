@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b527df8-111e-4d84-b492-131c1a940620" name="Changes" comment="Отредактирован файл Introduction.md">
-      <change afterPath="$PROJECT_DIR$/Answers_to_questions.md" afterDir="false" />
+    <list default="true" id="1b527df8-111e-4d84-b492-131c1a940620" name="Changes" comment="Добавлен файл Answers_to_questions.md.md">
+      <change afterPath="$PROJECT_DIR$/icons8-питон-48.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answers_to_questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +29,12 @@
     &quot;assignee&quot;: &quot;kson1ak&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:kson1ak/LentaParser.git",
-    "accountId": "c71be9a0-6a75-4d8a-91af-5eaa2a695b80"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:kson1ak/LentaParser.git&quot;,
+    &quot;accountId&quot;: &quot;c71be9a0-6a75-4d8a-91af-5eaa2a695b80&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -44,26 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.pytest in test_parser.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lenta_parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python -m unittest test_my_math.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_parser.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sofya/PycharmProjects/PythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.pytest in test_parser.py.executor": "Run",
+    "Python.lenta_parser.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.python -m unittest test_my_math.py.executor": "Run",
+    "Python.test_parser.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/sofya/PycharmProjects/PythonProject",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sofya\PycharmProjects\PythonProject" />
+      <recent name="C:\Users\sofya\PycharmProjects\PythonProject\.venv" />
     </key>
   </component>
   <component name="RunManager">
@@ -151,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777408820060</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавлен файл Answers_to_questions.md.md">
+      <option name="closed" value="true" />
+      <created>1777410425254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777410425254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,7 +182,8 @@
     <MESSAGE value="Отредактирован файл README" />
     <MESSAGE value="Добавлен файл Introduction.md" />
     <MESSAGE value="Отредактирован файл Introduction.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отредактирован файл Introduction.md" />
+    <MESSAGE value="Добавлен файл Answers_to_questions.md.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен файл Answers_to_questions.md.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
